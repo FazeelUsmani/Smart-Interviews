@@ -13,8 +13,7 @@ def selection(arr,n):
         else:
             if arr[j] > arr[max]:
                 max = j
-            
-        
+                    
     
     out.append(max)    
     arr[i], arr[max] = arr[max], arr[i]   
