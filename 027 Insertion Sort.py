@@ -1,6 +1,5 @@
 def selection(arr,n):
   out = []
-  
   for i in range(n-1,-1,-1):
     max = i
     for j in range(0,i):
