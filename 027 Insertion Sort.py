@@ -4,12 +4,10 @@ def selection(arr,n):
     max = i
     for j in range(0,i):
         if arr[j] == arr[n-1]:
-            max = j       
-      
+            max = j             
         elif arr[j] & 1:
             if arr[j] >= arr[max]:
                 max = j
-        
         else:
             if arr[j] > arr[max]:
                 max = j
