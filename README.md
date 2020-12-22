@@ -8,4 +8,4 @@ Problems: https://www.hackerrank.com/contests/smart-interviews/challenges
 
 
 
-**If you wish to take these course then I recommend to book 2 months in advance because there is a huge crowd coming these days**
+**If you wish to take this course then I recommend to book 2 months in advance because there is a huge crowd coming these days**
